@@ -23,7 +23,7 @@ Read more in our [blogpost](https://www.cossacklabs.com/blog/cossack-labs-mobile
 ## Get a CL MSS
 
 Download CL MSS template and use it for easy score calculation and measure mobile app security posture:
-⬇️ [Download Cossack Labs Mobile Security Score](https://github.com/cossacklabs/mobile-security-score/link-to-be-done)
+⬇️ [Download Cossack Labs Mobile Security Score](https://github.com/cossacklabs/mobile-security-score/releases/latest)
 
 ## Tested and trusted
 
